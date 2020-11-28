@@ -51,6 +51,16 @@ const expense = [
         type: 'Essen',
         date: '2020-11-11',
         amount: '50',
+    },
+    {
+        type: 'Spiel',
+        date: '2020-11-12',
+        amount: '50',
+    },
+    {
+        type: 'Miete',
+        date: '2020-11-01',
+        amount: '50',
     }
 ]
 
